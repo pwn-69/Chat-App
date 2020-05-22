@@ -1,0 +1,48 @@
+K:\_Kode\Project\C Sharp\UCSY Social\bin\Debug\UCSY Social.exe.config
+K:\_Kode\Project\C Sharp\UCSY Social\bin\Debug\UCSY Social.exe
+K:\_Kode\Project\C Sharp\UCSY Social\bin\Debug\UCSY Social.pdb
+K:\_Kode\Project\C Sharp\UCSY Social\obj\Debug\UCSY_Social.Chat.resources
+K:\_Kode\Project\C Sharp\UCSY Social\obj\Debug\UCSY_Social.Feeds.resources
+K:\_Kode\Project\C Sharp\UCSY Social\obj\Debug\UCSY_Social.home.resources
+K:\_Kode\Project\C Sharp\UCSY Social\obj\Debug\UCSY_Social.Info.resources
+K:\_Kode\Project\C Sharp\UCSY Social\obj\Debug\UCSY_Social.Authentication.resources
+K:\_Kode\Project\C Sharp\UCSY Social\obj\Debug\UCSY_Social.Main.resources
+K:\_Kode\Project\C Sharp\UCSY Social\obj\Debug\UCSY_Social.Properties.Resources.resources
+K:\_Kode\Project\C Sharp\UCSY Social\obj\Debug\UCSY_Social.Profile.resources
+K:\_Kode\Project\C Sharp\UCSY Social\obj\Debug\UCSY Social.csproj.GenerateResource.cache
+K:\_Kode\Project\C Sharp\UCSY Social\obj\Debug\UCSY Social.exe
+K:\_Kode\Project\C Sharp\UCSY Social\obj\Debug\UCSY Social.pdb
+K:\_Kode\Project\C#\UCSY Social\bin\Debug\UCSY Social.exe.config
+K:\_Kode\Project\C#\UCSY Social\bin\Debug\UCSY Social.exe
+K:\_Kode\Project\C#\UCSY Social\bin\Debug\UCSY Social.pdb
+K:\_Kode\Project\C#\UCSY Social\obj\Debug\UCSY_Social.Chat.resources
+K:\_Kode\Project\C#\UCSY Social\obj\Debug\UCSY_Social.Feeds.resources
+K:\_Kode\Project\C#\UCSY Social\obj\Debug\UCSY_Social.Forgot.resources
+K:\_Kode\Project\C#\UCSY Social\obj\Debug\UCSY_Social.home.resources
+K:\_Kode\Project\C#\UCSY Social\obj\Debug\UCSY_Social.Info.resources
+K:\_Kode\Project\C#\UCSY Social\obj\Debug\UCSY_Social.Main.resources
+K:\_Kode\Project\C#\UCSY Social\obj\Debug\UCSY_Social.Properties.Resources.resources
+K:\_Kode\Project\C#\UCSY Social\obj\Debug\UCSY_Social.Profile.resources
+K:\_Kode\Project\C#\UCSY Social\obj\Debug\UCSY_Social.Registraion.resources
+K:\_Kode\Project\C#\UCSY Social\obj\Debug\UCSY_Social.Setup.resources
+K:\_Kode\Project\C#\UCSY Social\obj\Debug\UCSY_Social.Update.resources
+K:\_Kode\Project\C#\UCSY Social\obj\Debug\UCSY Social.csproj.GenerateResource.cache
+K:\_Kode\Project\C#\UCSY Social\obj\Debug\UCSY Social.exe
+K:\_Kode\Project\C#\UCSY Social\obj\Debug\UCSY Social.pdb
+K:\_Kode\Project\C#\Group - 7\UCSY Social\bin\Debug\UCSY Social.exe.config
+K:\_Kode\Project\C#\Group - 7\UCSY Social\bin\Debug\UCSY Social.exe
+K:\_Kode\Project\C#\Group - 7\UCSY Social\bin\Debug\UCSY Social.pdb
+K:\_Kode\Project\C#\Group - 7\UCSY Social\obj\Debug\UCSY_Social.Chat.resources
+K:\_Kode\Project\C#\Group - 7\UCSY Social\obj\Debug\UCSY_Social.Feeds.resources
+K:\_Kode\Project\C#\Group - 7\UCSY Social\obj\Debug\UCSY_Social.Forgot.resources
+K:\_Kode\Project\C#\Group - 7\UCSY Social\obj\Debug\UCSY_Social.home.resources
+K:\_Kode\Project\C#\Group - 7\UCSY Social\obj\Debug\UCSY_Social.Info.resources
+K:\_Kode\Project\C#\Group - 7\UCSY Social\obj\Debug\UCSY_Social.Main.resources
+K:\_Kode\Project\C#\Group - 7\UCSY Social\obj\Debug\UCSY_Social.Properties.Resources.resources
+K:\_Kode\Project\C#\Group - 7\UCSY Social\obj\Debug\UCSY_Social.Profile.resources
+K:\_Kode\Project\C#\Group - 7\UCSY Social\obj\Debug\UCSY_Social.Registraion.resources
+K:\_Kode\Project\C#\Group - 7\UCSY Social\obj\Debug\UCSY_Social.Setup.resources
+K:\_Kode\Project\C#\Group - 7\UCSY Social\obj\Debug\UCSY_Social.Update.resources
+K:\_Kode\Project\C#\Group - 7\UCSY Social\obj\Debug\UCSY Social.csproj.GenerateResource.cache
+K:\_Kode\Project\C#\Group - 7\UCSY Social\obj\Debug\UCSY Social.exe
+K:\_Kode\Project\C#\Group - 7\UCSY Social\obj\Debug\UCSY Social.pdb

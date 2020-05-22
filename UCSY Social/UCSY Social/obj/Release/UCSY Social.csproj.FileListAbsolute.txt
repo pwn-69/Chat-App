@@ -1,0 +1,18 @@
+K:\_Kode\Project\C#\UCSY Social\bin\Release\UCSY Social.exe.config
+K:\_Kode\Project\C#\UCSY Social\bin\Release\UCSY Social.exe
+K:\_Kode\Project\C#\UCSY Social\bin\Release\UCSY Social.pdb
+K:\_Kode\Project\C#\UCSY Social\obj\Release\UCSY Social.csprojAssemblyReference.cache
+K:\_Kode\Project\C#\UCSY Social\obj\Release\UCSY_Social.Chat.resources
+K:\_Kode\Project\C#\UCSY Social\obj\Release\UCSY_Social.Feeds.resources
+K:\_Kode\Project\C#\UCSY Social\obj\Release\UCSY_Social.Forgot.resources
+K:\_Kode\Project\C#\UCSY Social\obj\Release\UCSY_Social.home.resources
+K:\_Kode\Project\C#\UCSY Social\obj\Release\UCSY_Social.Info.resources
+K:\_Kode\Project\C#\UCSY Social\obj\Release\UCSY_Social.Main.resources
+K:\_Kode\Project\C#\UCSY Social\obj\Release\UCSY_Social.Properties.Resources.resources
+K:\_Kode\Project\C#\UCSY Social\obj\Release\UCSY_Social.Profile.resources
+K:\_Kode\Project\C#\UCSY Social\obj\Release\UCSY_Social.Registraion.resources
+K:\_Kode\Project\C#\UCSY Social\obj\Release\UCSY_Social.Setup.resources
+K:\_Kode\Project\C#\UCSY Social\obj\Release\UCSY_Social.Update.resources
+K:\_Kode\Project\C#\UCSY Social\obj\Release\UCSY Social.csproj.GenerateResource.cache
+K:\_Kode\Project\C#\UCSY Social\obj\Release\UCSY Social.exe
+K:\_Kode\Project\C#\UCSY Social\obj\Release\UCSY Social.pdb
